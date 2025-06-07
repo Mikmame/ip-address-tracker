@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --out-dir=build"
+    "build": "parcel build index.html --out-dir=build",
+    "predeploy": "npm run build",
+    "deploy": "vercel --prod"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.15.2"
+    "parcel": "^2.15.2",
+    "vercel": "^42.3.0"
   },
   "dependencies": {
     "leaflet": "^1.9.4"
