@@ -4,7 +4,7 @@ A responsive IP address tracker that displays geolocation data and visualizes it
 
 ## 🌐 Live Demo
 
-▶️ [View the live site](https://ip-address-tracker-oje1jrwc6-mikmames-projects.vercel.app)
+▶️ [View the live site](https://ip-address-tracker-nu-gules.vercel.app/)
 
 ## ✨ Features
 
@@ -87,7 +87,7 @@ This project is deployed using **[Vercel](https://vercel.com/)**.
 Each push to the `main` branch automatically triggers a production deployment.
 
 🔗 Live:  
-[https://ip-address-tracker-oje1jrwc6-mikmames-projects.vercel.app](https://ip-address-tracker-oje1jrwc6-mikmames-projects.vercel.app)
+[https://ip-address-tracker-nu-gules.vercel.app/](https://ip-address-tracker-nu-gules.vercel.app/)
 
 ---
 
